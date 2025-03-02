@@ -1,5 +1,5 @@
 # Midterm Task 1
-
+This portfolio showcases the process of data normalization and cleaning applied to a transactional database. The dataset includes multiple interconnected tables, each structured to enhance data organization and minimize redundancy.
 
 # Step by Step Process
 
