@@ -1,5 +1,5 @@
 # EDM-V3
-This portfolio is about our work in Enterprise Data Management.
+This portfolio showcases our contributions and projects in Enterprise Data Management, highlighting our expertise in organizing, storing, and analyzing data to drive business efficiency.
 
 ## About Me
 I am a first-year Bachelor of Science in Information Systems student at CCA with a passion for technology and problem-solving. I'm eager to develop my skills in data management, systems analysis, and business processes. Currently, I'm also exploring managerial skills to enhance my leadership and decision-making abilities. Always open to learning and new opportunities!
