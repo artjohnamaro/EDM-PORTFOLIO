@@ -14,4 +14,4 @@ JUNIOR HIGH SCHOOL: Graduated from Don Antonio Lee Chi Uan Integrated School
 ## My Project
 Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md) 
 
-Midterm Lab Task 2: 
+Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](Midterm%20Task%202/task2.md)
