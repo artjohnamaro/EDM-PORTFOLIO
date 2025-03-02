@@ -1,4 +1,4 @@
-# EDM-V3
+# EDM-PORTFOLIO
 This portfolio showcases our contributions and projects in Enterprise Data Management, highlighting our expertise in organizing, storing, and analyzing data to drive business efficiency.
 
 ## About Me
