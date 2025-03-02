@@ -32,4 +32,3 @@ Here is the initial output before I began the data cleaning process.
 Here is the screenshot of my output after initiating the data cleaning process.
 
 ## Here is the Entity Relationship Diagram 
-![Image Alt](https://github.com/artjohnamaro/EDM-V3/blob/b72d7f44a380423340c7a508158ec57dd580ca23/Midterm%20Task%201/ERD%20(ART%20JOHN%20AMARO).png)
