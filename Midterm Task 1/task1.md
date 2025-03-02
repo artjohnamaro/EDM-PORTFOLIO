@@ -26,5 +26,7 @@ This portfolio showcases the process of data normalization and cleaning applied 
 • Mapped the normalization as a physical data model
 
 ## Step 3:
+Here is the initial output before I began the data cleaning process.
 
 ## Step 4: 
+Here is the screenshot of my output after initiating the data cleaning process.
