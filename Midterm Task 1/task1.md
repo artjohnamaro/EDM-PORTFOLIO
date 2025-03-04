@@ -37,4 +37,4 @@ Here is the screenshot of my output after initiating the data cleaning process.
 
 
 ## Clean Data
-Here is the [clean data] ()I prepared in Excel, optimized for accuracy and easy analysis.
+Here is the [clean data]( https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/7adae8eaf08918599285ad8425edd88ae61c524a/Midterm%20Task%201/Clean_Data(Art%20John)-1.xlsx)I prepared in Excel, optimized for accuracy and easy analysis.
