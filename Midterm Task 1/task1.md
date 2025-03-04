@@ -40,4 +40,4 @@ Here is the screenshot of my output after initiating the data cleaning process.
 Here is the [clean data]( https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/7adae8eaf08918599285ad8425edd88ae61c524a/Midterm%20Task%201/Clean_Data(Art%20John)-1.xlsx) I prepared in Excel, optimized for accuracy and easy analysis.
 
 ## Normalization 
-Here is the normalized version of the data, ensuring consistency and improved structure.
+Here is the [normalized version](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/e5bb65cb8ac83774d1d502ab86053398b93f8d5d/Midterm%20Task%201/3NF-%20ART%20JOHN%20AMARO.xlsx) of the data, ensuring consistency and improved structure.
