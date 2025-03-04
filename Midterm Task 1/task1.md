@@ -36,5 +36,8 @@ Here is the screenshot of my output after initiating the data cleaning process.
 ![Image Alt](https://github.com/artjohnamaro/EDM-V3/blob/7968688b55ba0792630eb256bc5736108bfe95be/images/ERD%20(ART%20JOHN%20AMARO).png)
 
 
-## Clean Data
-Here is the [clean data]( https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/7adae8eaf08918599285ad8425edd88ae61c524a/Midterm%20Task%201/Clean_Data(Art%20John)-1.xlsx)I prepared in Excel, optimized for accuracy and easy analysis.
+## Data Cleaning
+Here is the [clean data]( https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/7adae8eaf08918599285ad8425edd88ae61c524a/Midterm%20Task%201/Clean_Data(Art%20John)-1.xlsx) I prepared in Excel, optimized for accuracy and easy analysis.
+
+## Normalization 
+Here is the normalized version of the data.
