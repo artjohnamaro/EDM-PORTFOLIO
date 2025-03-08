@@ -1,4 +1,4 @@
-# Midterm Lab Task 2- – Data Cleaning and Transformation Using Power Query Editor
+# Midterm Lab Task 2 – Data Cleaning and Transformation Using Power Query Editor
 
 ## Task Description:
 This task involves cleaning, transforming, and analyzing a dataset of job listings using Power Query in Excel. The process is structured to ensure the data is accurate, organized, and ready for meaningful insights.
@@ -61,4 +61,4 @@ Reference Data for Salary by Company Size:
 - Group by State Full Name and calculate average salaries.
 
 ## Final Output
-![Image Alt](
+![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/e8b9fc6818664a2d0e60151d9b344b4f94f6f1d9/images/Data%20Query%20Structure.PNG)
