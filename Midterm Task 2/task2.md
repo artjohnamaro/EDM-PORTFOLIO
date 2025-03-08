@@ -59,3 +59,6 @@ Reference Data for Salary by Company Size:
 - Convert salaries to currency and multiply by 1000.
   
 - Group by State Full Name and calculate average salaries.
+
+## Final Output
+![Image Alt](
