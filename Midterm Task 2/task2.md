@@ -65,4 +65,5 @@ Reference Data for Salary by Company Size:
 - Group by State Full Name and calculate average salaries.
 
 ## Final Output
+![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/3f797e6b5a815796adca1111d614062ba35f8e03/images/Cleaned_Data.PNG)
 ![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/e8b9fc6818664a2d0e60151d9b344b4f94f6f1d9/images/Data%20Query%20Structure.PNG)
