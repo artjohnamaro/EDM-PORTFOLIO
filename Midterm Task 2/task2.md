@@ -77,4 +77,4 @@ Reference Data for Salary by Company Size:
 **Data Query Structure**
 ![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/e8b9fc6818664a2d0e60151d9b344b4f94f6f1d9/images/Data%20Query%20Structure.PNG)
 **Advance Editor**
-![Image Alt]
+![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/819c58cb866219ad7a489eda7282bdf87649837d/images/ADVANCE%20EDITOR.png)
