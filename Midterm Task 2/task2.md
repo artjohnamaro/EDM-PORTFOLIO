@@ -67,12 +67,12 @@ Reference Data for Salary by Company Size:
 ## Final Output
 ![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/3f797e6b5a815796adca1111d614062ba35f8e03/images/Cleaned_Data.PNG)
 **Sal By Role Size Ref**
-![Image Alt](
+![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/fc0b1f9c93550b5b28d00587e718a2ed77ff2468/images/Sal%20By%20Role%20Size%20ref%20SS.PNG)
 **Sal By Role Type Dup**
-![Image Alt]
+![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/fc0b1f9c93550b5b28d00587e718a2ed77ff2468/images/Sal%20By%20Role%20Type%20dup%20SS.PNG)
 **Sal By Size Role Type Ref**
-![Image Alt]
+![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/fc0b1f9c93550b5b28d00587e718a2ed77ff2468/images/Sal%20By%20Size%20Role%20Type%20Ref%20SS.PNG)
 **Sal By State Ref**
-![Image Alt]
+![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/fc0b1f9c93550b5b28d00587e718a2ed77ff2468/images/Sal%20By%20State%20Ref%20SS.PNG)
 **Data Query Structure**
 ![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/e8b9fc6818664a2d0e60151d9b344b4f94f6f1d9/images/Data%20Query%20Structure.PNG)
