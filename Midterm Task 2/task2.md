@@ -3,6 +3,8 @@
 ## Task Description:
 This task involves cleaning, transforming, and analyzing a dataset of job listings using Power Query in Excel. The process is structured to ensure the data is accurate, organized, and ready for meaningful insights.
 
+## Dataset before doing Cleaning and Transformation
+![Image Alt](Dataset before doing Cleaning and Transformation)
 
 **1. Load Data into Excel**
 
