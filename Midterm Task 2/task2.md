@@ -66,5 +66,13 @@ Reference Data for Salary by Company Size:
 
 ## Final Output
 ![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/3f797e6b5a815796adca1111d614062ba35f8e03/images/Cleaned_Data.PNG)
+**Sal By Role Size Ref**
+![Image Alt](
+**Sal By Role Type Dup**
+![Image Alt]
+**Sal By Size Role Type Ref**
+![Image Alt]
+**Sal By State Ref**
+![Image Alt]
 **Data Query Structure**
 ![Image Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/e8b9fc6818664a2d0e60151d9b344b4f94f6f1d9/images/Data%20Query%20Structure.PNG)
