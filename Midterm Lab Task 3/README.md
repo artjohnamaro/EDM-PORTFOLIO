@@ -39,15 +39,26 @@ VISUALS/Reports stated under number 2.
 
 ## Screenshots Captured During Analysis
 - Sal By Role Type
+  
+![Alt image](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/8dbde06313b8d9517676decf1a15ad15293aaef1/images/ROLE%20TYPE.png)
 
 - Sal By Size
+  
+![Alt image](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/8dbde06313b8d9517676decf1a15ad15293aaef1/images/ROLE%20SIZE.png)
 
 - Sal by State
+  
+![Alt image](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/8dbde06313b8d9517676decf1a15ad15293aaef1/images/SAL%20BY%20STATE.png)
 
 - Sector by size
+  
+![Alt image](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/5aa61e7438cbcd87c060930588c88fb012e7ed91/images/SECTOR%20EMPLOYS.png)
 
 - Sal by Sector
+  
+![Alt image](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/8dbde06313b8d9517676decf1a15ad15293aaef1/images/SAL%20BY%20SECTOR.png)
 
 ## Dashboard
-
+![Alt image](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/5aa61e7438cbcd87c060930588c88fb012e7ed91/images/DASHBOARD.png)
 ## Map
+![Alt image](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/bd5d7751d7ea43b059c016cd87c9919bd0e34b12/images/1140f54d-5447-44e5-b0ca-f3d0fc6c1b1a.jpg)
