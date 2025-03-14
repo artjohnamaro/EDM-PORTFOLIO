@@ -36,3 +36,18 @@ appealing and presentable
 VISUALS/Reports stated under number 2.
 
 8. The Slicers should make your Dashboard interactive
+
+## Screenshots Captured During Analysis
+- Sal By Role Type
+
+- Sal By Size
+
+- Sal by State
+
+- Sector by size
+
+- Sal by Sector
+
+## Dashboard
+
+## Map
