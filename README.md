@@ -12,8 +12,8 @@ SENIOR HIGH SCHOOL: Graduated from Angeles City Science High School
 JUNIOR HIGH SCHOOL: Graduated from Don Antonio Lee Chi Uan Integrated School
 
 ## My Project
-Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/main/Midterm%20Task%201/task1.md) 
+Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://artjohnamaro.github.io/Midterm-Task-1/) 
 
-Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/main/Midterm%20Task%202/task2.md)
+Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://artjohnamaro.github.io/Midterm-Task-2/)
 
-Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/52e2cf68b4d75ba57764304c6b496093a0c90adc/Midterm%20Lab%20Task%203/README.md)
+Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://artjohnamaro.github.io/Midterm-Task-3/)
