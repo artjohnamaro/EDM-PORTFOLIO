@@ -13,6 +13,7 @@ JUNIOR HIGH SCHOOL: Graduated from Don Antonio Lee Chi Uan Integrated School
 
 ## My Project
 **Midterm Task**
+
 Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://artjohnamaro.github.io/Midterm-Task-1/) 
 
 Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://artjohnamaro.github.io/Midterm-Task-2/)
@@ -20,4 +21,5 @@ Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://art
 Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://artjohnamaro.github.io/Midterm-Task-3/)
 
 **Finals Task**
+
 Finals Lab Task 1: [MySQL Basics](https://artjohnamaro.github.io/Finals-Lab-Task-1/)
