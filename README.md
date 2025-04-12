@@ -26,4 +26,4 @@ Finals Lab Task 1: [MySQL Basics](https://artjohnamaro.github.io/Finals-Lab-Task
 
 Finals Lab Task 2: [Transforming ER Model to Relational Database](https://artjohnamaro.github.io/Finals-Lab-Task-2/)
 
-Finals Lab Task 3: [Table Manipulation]
+Finals Lab Task 3: [Table Manipulation](https://artjohnamaro.github.io/Finals-Lab-Task-3/)
