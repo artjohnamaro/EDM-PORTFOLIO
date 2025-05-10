@@ -31,4 +31,4 @@ Finals Lab Task 3: [Table Manipulation](https://artjohnamaro.github.io/Finals-La
 
 Finals Lab Task 3.1 : [Using MySQL Clause](https://artjohnamaro.github.io/Final-Lab-Task-3.1/)
 
-Finals Lab Task 5:
+Finals Lab Task 5: [Using SQL views and Stored Procedures and Stored Functions](https://artjohnamaro.github.io/Finals-Lab-Task-5/)
